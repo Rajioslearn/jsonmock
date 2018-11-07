@@ -1,0 +1,64 @@
+{
+  "students": [
+    {
+      "id": 1000,
+      "name": "Rajesh",
+      "age": 45
+    },
+    {
+      "id": 1001,
+      "name": "Suresh",
+      "age": 56
+    },
+    {
+      "id": 1002,
+      "name": "Vinesh",
+      "age": 34
+    },
+    {
+      "id": 1003,
+      "name": "Raj",
+      "age": 45
+    },
+    {
+      "id": 1004,
+      "name": "Surendar",
+      "age": 56
+    },
+    {
+      "id": 1005,
+      "name": "Vinaya",
+      "age": 34
+    },
+    {
+      "id": 1006,
+      "name": "Riju",
+      "age": 45
+    },
+    {
+      "id": 1007,
+      "name": "Suresh",
+      "age": 56
+    },
+    {
+      "id": 1008,
+      "name": "Vinesh",
+      "age": 34
+    },
+    {
+      "id": 1009,
+      "name": "Rajesh",
+      "age": 45
+    },
+    {
+      "id": 1010,
+      "name": "Surya",
+      "age": 56
+    },
+    {
+      "id": 1011,
+      "name": "Vinay",
+      "age": 34
+    }
+  ]
+}
